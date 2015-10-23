@@ -46,7 +46,7 @@ PartsUnlimitedMRPアプリケーションに変更を加えると、Visual Studi
 
 #### 2.1.1. Azure Pass
 
-Azure Passを使うと、Azureが使えるようになります。セットアップ手順は（ここに小塚さんの資料）をご覧ください
+Azure Passを使うと、Azureが使えるようになります。セットアップ手順は[AzurePass 有効化手順](http://aka.ms/try-azurepass-jp )をご覧ください
 
 #### 2.1.2. Visual Studio Online
 
